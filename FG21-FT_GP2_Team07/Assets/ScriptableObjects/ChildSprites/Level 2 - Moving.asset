@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0eaab4acffc915488c0649325076be3, type: 3}
+  m_Name: Level 2 - Moving
+  m_EditorClassIdentifier: 
+  front: {fileID: 21300000, guid: c133eeb5b1a1a8e42ac6c340a87d9d10, type: 3}
+  back: {fileID: 21300000, guid: b4653705fea36a74aa1a1206938e2500, type: 3}
+  right: {fileID: 21300000, guid: f6ab73c4252d9fc4ab457e4878f219c4, type: 3}
+  left: {fileID: 21300000, guid: d1f96cb30fbe94346b16b531d12f8c88, type: 3}

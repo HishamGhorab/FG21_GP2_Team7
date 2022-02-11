@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8813d7444bfd5444b39abdd13c6ef7a, type: 3}
+  m_Name: Child Preset (19-00)
+  m_EditorClassIdentifier: 
+  roamingProbability: 0.95
+  idleProbability: 0.2
+  normalInteractableProbability: 0.35
+  dangerousInteractableProbability: 0.35
+  approachPlayerProbability: 0.25
+  moveSpeed: 4
+  maxRoamDistance: 6
+  idleTime: 2
+  interactTime: 5
+  dangerToPlayerMutiplier: 0.7
+  idle: {fileID: 11400000, guid: a397145cf413570428ef7a1f24c94e0d, type: 2}
+  moving: {fileID: 11400000, guid: 5671f0de215f94b409353e1b7ca753f5, type: 2}
